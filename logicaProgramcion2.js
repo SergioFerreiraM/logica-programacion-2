@@ -10,7 +10,7 @@ const rl = readline.createInterface({
         
     
      function convertirTemperatura() {
-        rl.question("Escriba una temperatura en celcius: ", (temperaturaCelsius) => {
+     rl.question("Escriba una temperatura en celcius: ", (temperaturaCelsius) => {
     //Solicitar la temperatura en Celsius 
     
     
